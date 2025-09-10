@@ -1,0 +1,3 @@
+ArrayList<String> list = new ArrayList<String>() {{
+    add("A"); add("B"); add("C"); 
+}};
